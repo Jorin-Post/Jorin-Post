@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Jorin-Post
 - 👀 I’m interested in Arduino projects
 - 🌱 I’m currently learning C++
-- 🤝 I’m looking to collaborate on everything to do with automatisation
+- 🤝 I’m looking to collaborate on everything automatisation related
