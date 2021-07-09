@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Jorin-Post
-- 👀 I’m interested in Arduino projects
-- 🌱 I’m currently learning C++ / Python and student of FreeCodeCamp
-- 🤝 I’m looking to collaborate on everything automatisation related
+## 👋 Hi, I’m @Jorin-Post
+- 👀 I’m interested in Arduino projects.
+- 🌱 I’m currently learning C++ / Python.
